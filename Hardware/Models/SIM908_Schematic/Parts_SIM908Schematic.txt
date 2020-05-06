@@ -1,0 +1,24 @@
+R1: 10 kohm (0805)
+R2: 330 ohm (0805)
+R3: 330 ohm (0805)
+R4: 330 ohm (0805)
+R5: 10 kohm (0805)
+C1: 100 nF (0805)
+C2: 100 nF (0805)
+C3: 100 nF (0805)
+C4: 15 pF (0805)
+C5: 15 pF (0805)
+C6: 470 µF 6,3 VL (CASE-X)
+C7: 4,7 µF 6,3 VL (CASE-P)
+U1: PIC18LF6722
+U2: MCP73831T-2ACI/OT
+LD1: led red (0805)
+LD2: led green (0805)
+LD3: led green  (0805)
+Q1: quartz 20 MHz (12SMX)
+SW1: switch
+P1: Microswitch 90° SMD
+Mini-USB
+molex 2 via 90°
+connector 8 via
+connector 2×10 via 2 mm femal

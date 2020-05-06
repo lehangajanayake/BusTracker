@@ -1,0 +1,3 @@
+GPS and HTTp moudle - sim908
+microcontroller - attiny13a
+voltage regulator - BD33FC0WEFJ-E2
