@@ -35,7 +35,7 @@ export class Map extends Component<props, state>{
                <Marker 
                coordinate = {{latitude:this.state.bus.Location!.Latitude, longitude: this.state.bus.Location!.Longitude}}
                title = {this.state.bus.LicenseNo}
-               image = {require('../assets/Bus_icon.png')}
+               //image = {require('../assets/Bus_icon.png')}
                />
            </MapView>
         );

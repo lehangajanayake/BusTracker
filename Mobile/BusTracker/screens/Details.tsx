@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import {View, StyleSheet, Text} from 'react-native';
-import { Bus } from '../BusTracker/pkg/models';
-import { getBusAttributes, getBusAvailability } from '../BusTracker/pkg/api';
+import { Bus } from '../pkg/models';
+import { getBusAttributes, getBusAvailability } from '../pkg/api';
 
 interface props{
     navigation: any;
